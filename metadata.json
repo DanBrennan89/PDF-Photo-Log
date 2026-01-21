@@ -1,5 +1,0 @@
-{
-  "name": "PhotoLog PDF Creator",
-  "description": "A local-first application to organize photos with descriptions and export them into a structured PDF document. Supports PWA installation and Electron EXE packaging.",
-  "requestFramePermissions": []
-}
